@@ -6,8 +6,7 @@ Convert any document into interactive quizzes automatically! Perfect for student
 
 ## ✨ Features
 
-- 📂 Supports multiple file formats (PDF, DOCX, TXT)
+- 📂 Supports pdf file format
 - 🧠 AI-powered question generation
-- 🎯 Customizable quiz difficulty
 - 📊 Performance analytics
-- 🔗 API integration available
+
