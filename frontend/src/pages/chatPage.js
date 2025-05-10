@@ -53,7 +53,7 @@ const ChatBot = () => {
 
     try {
       const response = await fetch(
-        "https://generativelanguage.googleapis.com/v1/models/gemini-1.5-pro:generateContent?key=AIzaSyDsyfitx1_JjgMKKZdKYlLkz3lSlmke32g",
+        "https://generativelanguage.googleapis.com/v1/models/gemini-1.5-pro:generateContent?key=ADD_YOUR_KEY_HERE",
         requestOption
       );
       const data = await response.json();
