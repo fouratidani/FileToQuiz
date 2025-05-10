@@ -26,6 +26,7 @@ npm install
 
 Open src/pages/ChatbotPage.js
 Replace YOUR_GEMINI_API_KEY with your actual Gemini API key
+
 4. Run development server:
 ```bash
 npm start
