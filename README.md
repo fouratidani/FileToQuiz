@@ -51,10 +51,12 @@ GEMINI_API_KEY=your_gemini_api_key
 DB_HOST=your_mysql_host
 DB_PASSWORD=your_mysql_password
 ```
+4. Start the server:
 ```bash
 npm run dev
 ```
 Server will run on http://localhost:5000
+
 ### System Requirements
 Node.js v16+
 
