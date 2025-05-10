@@ -59,9 +59,8 @@ npm run dev
 Server will run on http://localhost:5000
 
 ### System Requirements
-Node.js v16+
 
-MySQL database
+- Node.js v16+
+- MySQL database
+- Gemini API key
 
-Gemini API key
-npm run dev
