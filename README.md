@@ -25,6 +25,7 @@ npm install
 3. Configure API key:
 
 Open src/pages/ChatbotPage.js
+
 Replace YOUR_GEMINI_API_KEY with your actual Gemini API key
 
 4. Run development server:
@@ -45,7 +46,7 @@ App will run on http://localhost:3000
   ```
 3. Configure environment variables:
    Create .env file from .env.example
-  Update these values:
+   Update these values:
 ```bash
 JWT_SECRET=your_secure_jwt_secret
 GEMINI_API_KEY=your_gemini_api_key
